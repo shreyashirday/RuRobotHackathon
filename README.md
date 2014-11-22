@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 How to use this SDK
 ====================
 
@@ -75,3 +76,9 @@ This is the reference for the Decepticon class. The functions are shown in the h
 	char *get_arduino_message();
 	int get_sonar();
 	bool opened();
+=======
+RuRobotHackathon
+================
+
+Repo for 2014 Robot Hackathon
+>>>>>>> a092ef910108d2fd6e851ecfbc6600b883fca54b
